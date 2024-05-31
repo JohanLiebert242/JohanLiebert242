@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lộc (aka Johan)</h1>
 <h3 align="center">A college student from UIT who learns to better himself everyday</h3>
 
-<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Coding" align="right">
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Coding" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanliebert242&label=Profile%20views&color=0e75b6&style=flat" alt="johanliebert242" /> </p>
 
